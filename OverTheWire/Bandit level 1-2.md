@@ -1,0 +1,4 @@
+this one was a bit challenging but i knew something is up so i used the command find
+`find / -user bandit2 2</dev/null`  to find files which does the user have access to ,there were a lot but this one was odd ==/home/bandit1/-==   ,as if i use ls in the home directory ls i will see - ,i tried using the du (disk usage) to fine the disk used by the home directory with the command 
+`du -h`                  the result was 20k so i knew that - must be a file i also tried the file command `file ./- ` i used ./ as - is a special character and if i used file - the terminal will wait for input without doing anything.The result was  ==./-: ASCII text==  confirming its a text file
+so is use `cat  ./-` and i found the password for the next level : ==263JGJPfgU6LtdEvgfWU1XP5yac29mFx==
