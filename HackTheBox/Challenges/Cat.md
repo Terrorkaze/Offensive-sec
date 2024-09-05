@@ -12,7 +12,7 @@ i downloaded the tool mention there here  [https://github.com/nelenkov/android-b
 
 `java -jar abe.jar unpack cat.ab cat.tar ""`      
 
-the command there basically unpacks the database then output it to an achieve.
+the command there basically unpacks the backup then output it to an achieve.
 I then uncompressed the achieve,inside there was two folders ==shared== and ==apps==  
 under shared there was one folder populated with data which was ==shared/0/Pictures==
 there were pictures of cat but one photo stood out ==shared/0/Pictures/IMAG0004.jpg==  
