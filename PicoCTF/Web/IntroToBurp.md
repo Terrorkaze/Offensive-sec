@@ -1,0 +1,3 @@
+Difficulty: easy
+In this challenge you register an account and it will automatically redirects you to a dashboard where you have to put a code for 2factor-authentication.But the problem is you don't know the code nor do do you know the length of the code hence brute forcing the parameter is no go.
+So the the best way is to intercept the traffic in burp for the 2factor,then clear the parameter and you will get your flag.
