@@ -11,9 +11,11 @@
             "id": "4b1e8f9759d21536",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "HackTheBox/Challenges/IMAG0004.jpg"
+                "file": "CTF Write ups/IRON CTFs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Challenges/IMAG0004.jpg",
+                "file": "CTF Write ups/IRON CTFs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Challenges/IMAG0004.jpg",
+                "file": "CTF Write ups/IRON CTFs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Challenges/IMAG0004.jpg"
+                "file": "CTF Write ups/IRON CTFs.md"
               }
             }
           }
@@ -147,6 +149,7 @@
   },
   "active": "4b1e8f9759d21536",
   "lastOpenFiles": [
+    "HackTheBox/Challenges/IMAG0004.jpg",
     "CTF Write ups/IRON CTFs.md",
     "decrypted_image.png",
     "OverTheWire/Bandit level 12-13.md",
@@ -167,7 +170,6 @@
     "OverTheWire/Bandit level 11-12.md",
     "OverTheWire/Bandit level 4-5.md",
     "OverTheWire/Screenshot_2024-09-01_21_47_08.png",
-    "HackTheBox/Challenges/IMAG0004.jpg",
     "HackTheBox/Challenges/Cat.md",
     "PicoCTF/Web/IntroToBurp.md",
     "PicoCTF/Web",
