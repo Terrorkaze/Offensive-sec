@@ -11,11 +11,9 @@
             "id": "4b1e8f9759d21536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CTF Write ups/IRON CTFs.md",
-                "mode": "source",
-                "source": false
+                "file": "HackTheBox/Challenges/IMAG0004.jpg"
               }
             }
           }
@@ -65,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF Write ups/IRON CTFs.md",
+                "file": "HackTheBox/Challenges/IMAG0004.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF Write ups/IRON CTFs.md",
+                "file": "HackTheBox/Challenges/IMAG0004.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF Write ups/IRON CTFs.md"
+                "file": "HackTheBox/Challenges/IMAG0004.jpg"
               }
             }
           }
