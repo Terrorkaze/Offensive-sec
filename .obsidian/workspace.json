@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web/IntroToBurp.md",
+                "file": "CTF Write ups/IRON CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mind  map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Web/IntroToBurp.md",
+                "file": "CTF Write ups/IRON CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Web/IntroToBurp.md",
+                "file": "CTF Write ups/IRON CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Web/IntroToBurp.md"
+                "file": "CTF Write ups/IRON CTF.md"
               }
             }
           }
@@ -147,6 +148,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,10 +159,30 @@
   },
   "active": "4b1e8f9759d21536",
   "lastOpenFiles": [
+    "decrypted_image.png",
+    "OverTheWire/Bandit level 12-13.md",
+    "CTF Write ups/IRON CTF.md",
+    "encrypted.png",
+    "Untitled.md",
+    "CTF Write ups",
+    "HackTheBox/Machines/Green Horn.md",
+    "HackTheBox/Machines/Permx.md",
+    "OverTheWire/Bandit level 1-2.md",
+    "OverTheWire/Bandit level 2-3.md",
+    "OverTheWire/Bandit level 3-4.md",
+    "OverTheWire/Bandit level 5-6.md",
+    "OverTheWire/Bandit level 6-7.md",
+    "OverTheWire/Bandit level 7-8.md",
+    "OverTheWire/Bandit level 8-9.md",
+    "OverTheWire/Bandit level 9 -10.md",
+    "OverTheWire/Bandit level 10-11.md",
+    "OverTheWire/Bandit level 11-12.md",
+    "OverTheWire/Bandit level 4-5.md",
+    "OverTheWire/Screenshot_2024-09-01_21_47_08.png",
+    "HackTheBox/Challenges/IMAG0004.jpg",
     "HackTheBox/Challenges/Cat.md",
     "PicoCTF/Web/IntroToBurp.md",
     "PicoCTF/Web",
-    "HackTheBox/Machines/Green Horn.md",
     "Screenshot_2024-09-01_22_05_41.png",
     "Screenshot_2024-09-01_21_47_08.png",
     "Bandit level 9 -10.md",
@@ -170,28 +192,10 @@
     "Bandit level 5-6.md",
     "Bandit level 4-5.md",
     "Bandit level 3-4.md",
-    "Bandit level 2-3.md",
-    "Bandit level 12-13.md",
-    "Bandit level 11-12.md",
-    "Bandit level 10-11.md",
-    "Bandit level 1-2.md",
-    "Bandit level 0-1.md",
-    "HackTheBox/Machines/Permx.md",
-    "HackTheBox/Challenges/IMAG0004.jpg",
-    "OverTheWire/Bandit level 1-2.md",
     "HackTheBox/Machines/GreenHorn",
     "GreenHorn",
-    "OverTheWire/Bandit level 12-13.md",
-    "OverTheWire/Bandit level 0-1.md",
-    "OverTheWire/Bandit level 2-3.md",
-    "OverTheWire/Bandit level 3-4.md",
-    "OverTheWire/Bandit level 4-5.md",
-    "OverTheWire/Bandit level 5-6.md",
-    "OverTheWire/Bandit level 6-7.md",
-    "OverTheWire/Bandit level 7-8.md",
     "OverTheWire/Screenshot_2024-09-01_22_05_41.png",
     "OverTheWire/Screenshot_2024-09-01_22_05_41 1.png",
-    "OverTheWire/Screenshot_2024-09-01_21_47_08.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -204,7 +208,6 @@
     "OverTheWire",
     "TryHackMe",
     "HackTheBox/Challenges",
-    "HackTheBox/Machines",
-    "HackTheBox"
+    "HackTheBox/Machines"
   ]
 }
